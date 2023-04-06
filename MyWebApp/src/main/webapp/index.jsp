@@ -1,6 +1,11 @@
+<!DOCTYPE>
 <html>
 <body>
+
 <h2>Hello World Hello Seni</h2>
+
+<h2>Hello World!!</h2>
+
 <h2>Welcome to Webhook From Github to Jenkins</h2>
 </body>
 </html>
