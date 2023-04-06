@@ -1,5 +1,5 @@
 <!DOCTYPE>
-<html>
+<html lang="en">
 <body>
 
 <h2>Hello World Hello Seni</h2>
