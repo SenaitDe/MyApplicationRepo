@@ -1,8 +1,8 @@
-<!DOCTYPE>
+
 <html lang="en">
 <body>
 
-<h2>Hello World Hello Seni</h2>
+<h2>Hello World </h2>
 
 <h2>Hello World!!</h2>
 
