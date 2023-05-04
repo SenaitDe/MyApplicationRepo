@@ -1,1 +1,2 @@
 # MyApplicationRepoSeni
+# Additional note
