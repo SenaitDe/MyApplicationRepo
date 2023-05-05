@@ -1,2 +1,2 @@
-# MyApplicationRepoSeni
+# MyApplicationRepo
 # Additional note
